@@ -6,4 +6,5 @@ A tutorial to show developers how to quickly connect their smart contract to IBP
 
 [![](docs/thumbnail.png)](https://www.youtube.com/watch?v=fkjplfS-sbU&t=36s)
 
+
 [![](docs/thumbnail2.png)](https://www.youtube.com/watch?v=zw3eo4sn1lM)
